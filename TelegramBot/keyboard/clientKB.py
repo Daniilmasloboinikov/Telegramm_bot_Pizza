@@ -4,7 +4,7 @@ b1 = KeyboardButton("/time")
 b2 = KeyboardButton("/address")
 b3 = KeyboardButton("/привет")
 b4 = KeyboardButton("Поделиться номером", request_contact=True)
-b5 = KeyboardButton("Отправить где я", request_location=True)
+b5 = KeyboardButton("Скажи где ты", request_location=True)
 b6 = KeyboardButton("/download")
 b7 = KeyboardButton("/cancel")
 
